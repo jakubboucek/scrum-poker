@@ -1,0 +1,18 @@
+{
+  "name": "scrum-poker",
+  "version": "0.0.1",
+  "description": "Interactive collaborative tool for meeting with projector",
+  "homepage": "https://github.com/jakubboucek/scrum-poker",
+  "author": {
+    "name": "Jakub Bouček",
+    "email": "pan@jakubboucek.cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubboucek/scrum-poker.git"
+  },
+  "dependencies": {
+    "express": "~3.4.0",
+    "socket.io": "~0.9.0"
+  }
+}
